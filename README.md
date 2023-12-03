@@ -29,9 +29,9 @@ I'm in a 12-month DevOps and Cloud Computing training program, earning the "AWS 
 </p>
 
 # 📫 How to reach me?
-- <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="25" height="25" />&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ramziatrous/">Ramzi Atrous</a>
-- <img src="https://atrous.de/favicon.ico">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://atrous.de">My Portfolio</a>
-- 📧 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:atrous.ramzi@gmx.de">Email
+- <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="25" height="25" />&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ramziatrous/" target="_blank">Ramzi Atrous</a>
+- <img src="https://atrous.de/favicon.ico">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://atrous.de" target="_blank">My Portfolio</a>
+- 📧 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:atrous.ramzi@gmx.de" target="_blank">Email
 
 # Hobbies
 - 🎣 Fishing
