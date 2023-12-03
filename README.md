@@ -44,4 +44,7 @@ I'm in a 12-month DevOps and Cloud Computing training program, earning the "AWS 
 
 ### ⚡ Fun fact: The end is the beginning, and the beginning is the end === DEVOPS
 
-[![](https://visitcount.itsvg.in/api?id=ramzi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p align='center'>
+Profile Views <br><br>
+<a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter7.optistats.ovh/private/freecounterstat.php?c=5m5flcmgmjllnq8uebj8ylhfex8bwdt3" border="0" title="free website counter" alt="free website counter"></a>
+</p>
