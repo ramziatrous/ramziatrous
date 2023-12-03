@@ -43,3 +43,5 @@ I'm in a 12-month DevOps and Cloud Computing training program, earning the "AWS 
 ### [Ansible Playground]()
 
 ### ⚡ Fun fact: The end is the beginning, and the beginning is the end === DEVOPS
+
+[![](https://visitcount.itsvg.in/api?id=ramzi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
