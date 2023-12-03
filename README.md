@@ -41,7 +41,7 @@ I'm in a 12-month DevOps and Cloud Computing training program, earning the "AWS 
 ### [Terraform Playground]()
 ### [Docker Playground]()
 ### [Ansible Playground]()
-
+---
 ### ⚡ Fun fact: The end is the beginning, and the beginning is the end === DEVOPS
 ---
 <p align='center'>
