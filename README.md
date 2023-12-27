@@ -5,6 +5,12 @@
 I'm in a 12-month DevOps and Cloud Computing training program, earning the "AWS Certified Cloud Practitioner CLF-C01" certification,"LE-1: Linux Essentials". I gained expertise in Cloud principles ☁️  Linux 🐧 networks 🌐 security 🔐 Python 🐍 databases 🛢️  Docker 🐳 MongoDB  and advanced AWS concepts. My training covered Agile methodologies like Scrum, Cloud monitoring 📈 and Infrastructure as Code using Terraform and Ansible. I also mastered Continuous Integration and Delivery practices, ensuring software quality at every step.
 </p>
 
+# 🎓 Certification
+
+- <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="25" height="25" /> <a href="https://www.credly.com/badges/19b5b960-3ac4-4aab-a22d-a102bb8afbd5" target="_blank">HashiCorp Certified: Terraform Associate (003)</a>
+-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS" width="30" height="30" /> <a href="https://www.credly.com/badges/14a7f611-47db-48b8-9af6-371dbbb96847" target="_blank">AWS Certified Cloud Practitioner</a>
+- <img src="https://infosyte.com/wp-content/uploads/2022/03/linux-essentials.jpg" alt="AWS" width="30" height="30" /> <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000567962/vnushjg3dq" target="_blank">LE-1: Linux Essentials</a>
+
 # 🚀 Some Tools I Use
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
